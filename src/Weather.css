@@ -3,7 +3,7 @@
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
-  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  background: radial-gradient(circle at 10% 20%, rgb(253, 239, 132) 0%, rgb(247, 198, 169) 54.2%, rgb(21, 186, 196) 100.3%);;
 }
 
 .Weather h1 {
@@ -29,7 +29,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: #c19277;;
+  color: black;
   font-size: 64px;
   line-height: 64px;
   margin-left: 5px;
